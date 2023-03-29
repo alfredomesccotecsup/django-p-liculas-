@@ -1,2 +1,2 @@
 # django-peliculas-
-Aplicacione peliculas 
+Aplicacion de peliculas 
